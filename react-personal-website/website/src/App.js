@@ -1,9 +1,17 @@
+// Routes
+import Router from "./routes";
+
+
+// -----------
+
 function App() {
   return (
     <>
-      Website
+      <Router />
     </>
   );
 }
+
+// -----------
 
 export default App;
